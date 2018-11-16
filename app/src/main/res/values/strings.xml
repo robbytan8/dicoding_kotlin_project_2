@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Football App</string>
+    <string name="nav_menu_club">Club</string>
+    <string name="nav_menu_match">Match</string>
+    <string name="tab_last_match">Last Match</string>
+    <string name="tab_next_match">Next Match</string>
+    <string name="title_match_detail">Match Detail</string>
+    <string name="text_vs">VS</string>
+    <string name="text_goals">Goals</string>
+    <string name="text_scorer">Scorer</string>
+    <string name="text_gk">Goal Keeper</string>
+    <string name="text_def">Defense</string>
+    <string name="text_mid">Midfield</string>
+    <string name="text_forward">Forward</string>
+    <string name="text_subs">Substitute</string>
+    <string name="parcel_club" translatable="false">PCL-CLUB</string>
+    <string name="parcel_event" translatable="false">PCL-EVT</string>
+</resources>
